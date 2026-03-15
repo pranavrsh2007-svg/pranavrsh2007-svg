@@ -4,25 +4,45 @@
 IT Student | Web Developer | AI Learner
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff"/>
-</p>
+---
+
+## 🎮 Developer Game Zone
+
+```text
+Player: Pranav Shinde
+Role: Web Developer
+Level: Beginner Developer
+
+XP Progress
+████████░░░░ 70%
+
+Skills Unlocked
+✔ HTML
+✔ CSS
+✔ Python
+✔ C
+
+Next Level Unlock
+⬜ JavaScript
+⬜ Artificial Intelligence
+⬜ Full Stack Development
+```
 
 ---
 
 ## 👋 About Me
 
-Hi, I'm **Pranav Shinde**
+Hi 👋 I'm **Pranav Shinde**
 
 🎓 First Year **Information Technology Student**
 📍 Pune, India
 
-🌱 Currently learning:
+🌱 Currently learning
 
 • Web Development
 • Artificial Intelligence
 
-💡 Interested in building real-world projects and participating in hackathons.
+💡 Interested in building real world projects and participating in hackathons.
 
 ---
 
@@ -40,7 +60,7 @@ Hi, I'm **Pranav Shinde**
 
 ### HealthEDI Analyzer
 
-A healthcare EDI analysis tool designed to detect errors in EDI transactions and help understand healthcare data structures.
+Healthcare EDI analysis tool designed to detect errors in EDI transactions and help understand healthcare data structures.
 
 ---
 
@@ -60,16 +80,6 @@ A healthcare EDI analysis tool designed to detect errors in EDI transactions and
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pranavrsh2007-svg&theme=algolia&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -84,7 +94,7 @@ A healthcare EDI analysis tool designed to detect errors in EDI transactions and
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=pranavrsh2007-svg&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=pranavrsh2007-svg&label=Profile%20Views&color=blue&style=flat"/>
 
 </p>
 

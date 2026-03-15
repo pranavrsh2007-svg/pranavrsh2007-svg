@@ -72,12 +72,10 @@ A healthcare EDI analysis tool designed to detect errors in EDI transactions and
 
 ---
 
-# 🎮 GitHub Pacman Game
+# ## 🎮 Contribution Snake Game
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman.svg">
-
+<img src="https://raw.githubusercontent.com/pranavrsh2007-svg/pranavrsh2007-svg/main/dist/github-contribution-grid-snake.svg">
 </p>
 
 *Pacman eats my GitHub contributions.*

@@ -1,0 +1,24 @@
+name: generate pacman game
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: generate pacman contribution graph
+        uses: abozanona/pacman-contribution-graph-action@main
+        with:
+          github_user_name: pranavrsh2007-svg
+
+      - name: push pacman svg
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "generate pacman game"
+          add: "dist/*.svg"

@@ -1,4 +1,4 @@
-name: generate pacman game
+name: Generate Snake Game
 
 on:
   schedule:
@@ -12,13 +12,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: generate pacman contribution graph
-        uses: abozanona/pacman-contribution-graph-action@main
+      - uses: Platane/snk@v3
         with:
           github_user_name: pranavrsh2007-svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-      - name: push pacman svg
+      - name: push the content
         uses: EndBug/add-and-commit@v9
         with:
-          message: "generate pacman game"
+          message: "generate snake game"
           add: "dist/*.svg"

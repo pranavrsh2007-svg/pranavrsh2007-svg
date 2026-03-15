@@ -1,70 +1,145 @@
 <h1 align="center">👨‍💻 Pranav Shinde</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Web+Developer;Learning+Artificial+Intelligence;Hackathon+Enthusiast;Future+Software+Engineer" />
+IT Student | Web Developer | AI Learner
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Web+Developer;Learning+Artificial+Intelligence;Hackathon+Enthusiast;Future+Software+Engineer" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+# 🎮 Developer Arcade
 
-* 🎓 First Year **Information Technology Student**
-* 📍 Based in **Pune, India**
-* 🌱 Currently learning **Web Development & Artificial Intelligence**
-* 💡 Passionate about building real-world projects
-* 🚀 Interested in **Hackathons, Programming & AI**
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600">
+</p>
+
+💡 *Coding late nights like a retro arcade game.*
 
 ---
 
-## ⚡ Tech Stack
+# 👨‍💻 About Me
 
-<p>
+Hi 👋 I'm **Pranav Shinde**
+
+🎓 First Year **Information Technology Student**
+📍 Pune, India
+
+🌱 Currently learning
+
+• Web Development
+• Artificial Intelligence
+
+🚀 Interested in **Hackathons, Programming & AI**
+
+---
+
+# ⚙️ Tech Stack
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Project
 
-### 🏥 HealthEDI Analyzer
+### HealthEDI Analyzer
 
-A project focused on **analyzing healthcare EDI data** and detecting errors in EDI transactions.
+Healthcare EDI analysis tool designed to detect errors in EDI transactions and help understand healthcare data structures.
 
 ---
 
-## 📊 GitHub Stats
+# 📦 Project Showcase
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pranavrsh2007-svg&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<a href="https://github.com/pranavrsh2007-svg/HealthEDI-Analyzer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavrsh2007-svg&repo=HealthEDI-Analyzer&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/pranavrsh2007-svg/MedEDI-Check">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavrsh2007-svg&repo=MedEDI-Check&theme=tokyonight" />
+</a>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavrsh2007-svg&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=pranavrsh2007-svg&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📚 Most Used Languages
+# 📚 Most Used Languages
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavrsh2007-svg&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=pranavrsh2007-svg&theme=matrix&no-frame=true&margin-w=10"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavrsh2007-svg&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🕹 Developer Level System
+
+```
+Player: Pranav Shinde
+Class: Web Developer
+Level: Beginner Developer
+
+Skills Unlocked:
+✔ HTML
+✔ CSS
+✔ Python
+✔ C
+
+Next Unlock:
+⬜ JavaScript Mastery
+⬜ AI Development
+⬜ Full Stack Development
+```
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=pranavrsh2007-svg&label=Profile%20Views&color=blue&style=flat"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 🔗 LinkedIn
 https://www.linkedin.com/in/pranav-shinde-20b7b3385/
@@ -74,8 +149,6 @@ https://www.linkedin.com/in/pranav-shinde-20b7b3385/
 
 ---
 
-## 💻 Developer Quote
+# 💬 Developer Quote
 
-> "Programs must be written for people to read, and only incidentally for machines to execute."
-> – Harold Abelson
-
+> "First, solve the problem. Then, write the code."

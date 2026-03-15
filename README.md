@@ -4,29 +4,31 @@
 <b>IT Student | Web Developer | AI Learner</b>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=600&color=00C2FF&lines=Welcome+to+my+GitHub;Building+Web+Projects;Learning+AI+%26+Development" />
-</p>
-
 ---
 
 # 👋 About Me
 
-Hi, I'm **Pranav Shinde**
+Hi, I'm **Pranav Shinde**, a passionate **Information Technology student** from **Pune, India 🇮🇳**.
 
-🎓 First Year **Information Technology Student**
-📍 Pune, India
+🎓 Currently pursuing **First Year B.Tech in Information Technology**
 
-🌱 Currently learning:
+💡 I enjoy learning new technologies and building real-world projects that improve my development skills.
+
+🌱 Currently focusing on:
 
 * Web Development
-* Artificial Intelligence
+* Artificial Intelligence fundamentals
+* Building GitHub projects
+* Participating in Hackathons
 
-🚀 Interested in:
+🚀 My goal is to become a **skilled full-stack developer** and build impactful software solutions.
 
-* Hackathons
-* Real-world software projects
-* AI tools
+📚 Current learning journey:
+
+* HTML, CSS, Web fundamentals
+* Python programming
+* Problem solving with C
+* Understanding AI tools and technologies
 
 ---
 
@@ -72,11 +74,11 @@ A healthcare EDI analysis tool designed to detect errors in EDI transactions and
 
 </p>
 
-💡 *Pacman eats my GitHub contributions.*
+*Pacman eats my GitHub contributions.*
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Activity
 
 <p align="center">
 
@@ -96,16 +98,6 @@ A healthcare EDI analysis tool designed to detect errors in EDI transactions and
 
 ---
 
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=pranavrsh2007-svg&label=Profile%20Views&color=blue&style=flat"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 🔗 LinkedIn
@@ -113,9 +105,3 @@ https://www.linkedin.com/in/pranav-shinde-20b7b3385/
 
 📧 Email
 [pranavshinde152007@gmail.com](mailto:pranavshinde152007@gmail.com)
-
----
-
-# 💬 Developer Quote
-
-> "First, solve the problem. Then, write the code."

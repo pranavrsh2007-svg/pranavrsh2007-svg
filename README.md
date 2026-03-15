@@ -32,6 +32,12 @@ Hi, I'm **Pranav Shinde**, a passionate **Information Technology student** from 
 
 ---
 
+## 🎮 Contribution Game
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/pranavrsh2007-svg/pranavrsh2007-svg/main/dist/github-contribution-grid-snake.svg">
+</p>
+
 # 🛠 Tech Stack
 
 <p align="center">

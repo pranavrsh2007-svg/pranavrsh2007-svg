@@ -1,52 +1,36 @@
 <h1 align="center">👨‍💻 Pranav Shinde</h1>
 
 <p align="center">
-IT Student | Web Developer | AI Learner
+<b>IT Student | Web Developer | AI Learner</b>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=600&color=00C2FF&lines=Welcome+to+my+GitHub;Building+Web+Projects;Learning+AI+%26+Development" />
 </p>
 
 ---
 
-## 🎮 Developer Game Zone
+# 👋 About Me
 
-```text
-Player: Pranav Shinde
-Role: Web Developer
-Level: Beginner Developer
-
-XP Progress
-████████░░░░ 70%
-
-Skills Unlocked
-✔ HTML
-✔ CSS
-✔ Python
-✔ C
-
-Next Level Unlock
-⬜ JavaScript
-⬜ Artificial Intelligence
-⬜ Full Stack Development
-```
-
----
-
-## 👋 About Me
-
-Hi 👋 I'm **Pranav Shinde**
+Hi, I'm **Pranav Shinde**
 
 🎓 First Year **Information Technology Student**
 📍 Pune, India
 
-🌱 Currently learning
+🌱 Currently learning:
 
-• Web Development
-• Artificial Intelligence
+* Web Development
+* Artificial Intelligence
 
-💡 Interested in building real world projects and participating in hackathons.
+🚀 Interested in:
+
+* Hackathons
+* Real-world software projects
+* AI tools
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
@@ -56,15 +40,15 @@ Hi 👋 I'm **Pranav Shinde**
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Project
 
 ### HealthEDI Analyzer
 
-Healthcare EDI analysis tool designed to detect errors in EDI transactions and help understand healthcare data structures.
+A healthcare EDI analysis tool designed to detect errors in EDI transactions and help understand healthcare data structures.
 
 ---
 
-## 📦 Projects
+# 📦 Projects
 
 <p align="center">
 
@@ -80,7 +64,19 @@ Healthcare EDI analysis tool designed to detect errors in EDI transactions and h
 
 ---
 
-## 📈 Contribution Activity
+# 🎮 GitHub Pacman Game
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman.svg">
+
+</p>
+
+💡 *Pacman eats my GitHub contributions.*
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -90,7 +86,17 @@ Healthcare EDI analysis tool designed to detect errors in EDI transactions and h
 
 ---
 
-## 👀 Profile Visitors
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pranavrsh2007-svg&theme=algolia&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
 
 <p align="center">
 
@@ -100,7 +106,7 @@ Healthcare EDI analysis tool designed to detect errors in EDI transactions and h
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 🔗 LinkedIn
 https://www.linkedin.com/in/pranav-shinde-20b7b3385/
@@ -110,6 +116,6 @@ https://www.linkedin.com/in/pranav-shinde-20b7b3385/
 
 ---
 
-## 💬 Developer Quote
+# 💬 Developer Quote
 
 > "First, solve the problem. Then, write the code."

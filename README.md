@@ -39,13 +39,7 @@ A healthcare EDI analysis tool designed to detect errors in EDI transactions and
 
 ---
 
-# 🎮 Contribution Snake Game
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/pranavrsh2007-svg/pranavrsh2007-svg/main/dist/github-contribution-grid-snake.svg">
-</p>
-
----
 
 # 🔥 GitHub Commit Streak
 
